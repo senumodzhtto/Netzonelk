@@ -2,7 +2,7 @@
   "vpn_configs": [
     {
       "name": "Dialog Zoom",
-      "v2ray": "",
+      "v2ray": "vless://bfa70b9c-387f-4ccf-b0a4-f90a198faa99@jeharaone.senumodz.shop:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=&sni=aka.ms#d%20zoom-free",
       "icon": "images/dialog.jpg"
     },
     {
@@ -72,6 +72,7 @@
     }
   ]
 }
+
 
 
 
