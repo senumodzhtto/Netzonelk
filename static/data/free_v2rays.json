@@ -17,61 +17,62 @@
     },
     {
       "name": "SLT Zoom",
-      "v2ray": "",
+      "v2ray": "vless://b0ec3cc8-1e2a-44fa-ae38-d55e864fc61f@jeharaone.senumodz.shop:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=webex.com&type=tcp&headerType=none#d%20zoom-sltzoom",
       "icon": "images/slt.png"
     },
     {
       "name": "FIBER Zoom",
-      "v2ray": "",
+      "v2ray": "vless://b0ec3cc8-1e2a-44fa-ae38-d55e864fc61f@jeharaone.senumodz.shop:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=webex.com&type=tcp&headerType=none#d%20zoom-sltzoom",
       "icon": "images/slt.png"
     },
     {
       "name": "SLT NETFLIX",
-      "v2ray": "",
+      "v2ray": "psse dennm oyi",
       "icon": "images/slt.png"
     },
     {
       "name": "Mobitel Zoom",
-      "v2ray": "",
+      "v2ray": "vless://8bfd5dfc-3d05-4b7d-8f2d-ead6fdf7fe51@172.66.40.229:2096/?encryption=none&flow=none&security=tls&fp=chrome&sni=jeharaone.senumodz.shop&type=ws&host=jeharaone.senumodz.shop&headerType=none&path=%2fcudunona#m%20zoom-freemzoom",
       "icon": "images/mobitel.jpg"
     },
     {
       "name": "Hutch Zoom",
-      "v2ray": "",
+      "v2ray": "vless://e00745d7-2396-4751-8963-830045bc792b@support.zoom.us:8080/?encryption=none&flow=none&security=none&type=ws&host=jeharaone.senumodz.shop&headerType=none&path=%2fcudunona#airtelhutchzoom-freee",
       "icon": "images/hutch.png"
     },
     {
       "name": "Hutch 169",
-      "v2ray": "",
+      "v2ray": "vless://e8bc18b4-722b-42ce-9bc3-e21536da97b5@jeharaone.senumodz.shop:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=t.me&type=tcp&headerType=none#d%20zoom-h169",
       "icon": "images/hutch.png"
     },
     {
       "name": "Hutch Gaming",
-      "v2ray": "",
+      "v2ray": "psse dennm oyi",
       "icon": "images/hutch.png"
     },
      {
       "name": "Airtel 148/498",
-      "v2ray": "",
+      "v2ray": "vless://cd90655d-b8c0-403a-9b44-57ea9a293d13@jeharaone.senumodz.shop:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=www.googleapis.cn&type=tcp&headerType=none#d%20zoom-airtel",
       "icon": "images/airtel.png"
     },
      {
       "name": "Airtel Tiktok",
-      "v2ray": "",
+      "v2ray": "vless://337394da-c295-4580-b1c5-2af78c701d8f@jeharaone.senumodz.shop:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=www.tiktok.com&type=tcp&headerType=none#d%20zoom-datiktok",
       "icon": "images/airtel.png"
     },
      {
       "name": "Airtel 135/260",
-      "v2ray": "",
+      "v2ray": "psse dennm oyi",
       "icon": "images/airtel.png"
     },
     {
       "name": "Airtel Zoom",
-      "v2ray": "",
+      "v2ray": "vless://e00745d7-2396-4751-8963-830045bc792b@support.zoom.us:8080/?encryption=none&flow=none&security=none&type=ws&host=jeharaone.senumodz.shop&headerType=none&path=%2fcudunona#airtelhutchzoom-freee",
       "icon": "images/airtel.png"
     }
   ]
 }
+
 
 
 
