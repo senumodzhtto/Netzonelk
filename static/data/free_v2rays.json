@@ -2,27 +2,27 @@
   "vpn_configs": [
     {
       "name": "Dialog Zoom",
-      "v2ray": "vless://eac985cf-6656-49c8-9c8e-734fc28be66e@cudunona.senumodz.shop:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=aka.ms#Dzoom_free-dzoom",
+      "v2ray": "",
       "icon": "images/dialog.jpg"
     },
     {
       "name": "Dialog 348",
-      "v2ray": "vless://4bf2854c-2864-4694-94af-5681de8cade8@senuthhtto.senumodz.shop:80?type=xhttp&encryption=none&path=%2Fsenumodz-shop.global.ssl.fastly.net&host=senumodz-shop.global.ssl.fastly.net&mode=auto&security=none#d%20348-free_d348",
+      "v2ray": "",
       "icon": "images/dialog.jpg"
     },
      {
       "name": "Dialog Tiktok",
-      "v2ray": "vless://9876aa73-939c-4be3-8581-d22cb2c9c613@cudunona.senumodz.shop:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=www.tiktok.com#Dzoom_free-d%26t_tiktok",
+      "v2ray": "",
       "icon": "images/dialog.jpg"
     },
     {
       "name": "SLT Zoom",
-      "v2ray": "vless://83598afd-c01e-4ac3-bac8-81b1b167a3a1@cudunona.senumodz.shop:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=webex.com#Dzoom_free-sltzoom",
+      "v2ray": "",
       "icon": "images/slt.png"
     },
     {
       "name": "FIBER Zoom",
-      "v2ray": "vless://83598afd-c01e-4ac3-bac8-81b1b167a3a1@cudunona.senumodz.shop:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=webex.com#Dzoom_free-sltzoom",
+      "v2ray": "",
       "icon": "images/slt.png"
     },
     {
@@ -32,46 +32,47 @@
     },
     {
       "name": "Mobitel Zoom",
-      "v2ray": "vless://77a7decb-1113-4168-a0b2-a690b5226761@172.66.40.229:8443?type=ws&encryption=none&path=%2F&host=fastest.exdusv2ray.filegear-sg.me&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=fastest.exdusv2ray.filegear-sg.me&ech=AHT%2BDQBwAAAgACAF2oLY%2FjKI%2Fo0o4VTNN1RXos008kqfrPpObXJnzg19WwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADACFmYXN0ZXN0LmV4ZHVzdjJyYXkuZmlsZWdlYXItc2cubWUAAA%3D%3D#paid-free_mzoom",
+      "v2ray": "",
       "icon": "images/mobitel.jpg"
     },
     {
       "name": "Hutch Zoom",
-      "v2ray": "no v2ray corry",
+      "v2ray": "",
       "icon": "images/hutch.png"
     },
     {
       "name": "Hutch 169",
-      "v2ray": "vless://e4c6ef24-9439-4659-9ee1-b1ececc673b1@cudunona.senumodz.shop:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=t.me#Dzoom_free-h169",
+      "v2ray": "",
       "icon": "images/hutch.png"
     },
     {
       "name": "Hutch Gaming",
-      "v2ray": "no v2ray",
+      "v2ray": "",
       "icon": "images/hutch.png"
     },
      {
       "name": "Airtel 148/498",
-      "v2ray": "vless://3dd2535f-3209-4b18-aedb-cb0485e865e4@cudunona.senumodz.shop:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=www.googleapis.cn#Dzoom_free-a148_498",
+      "v2ray": "",
       "icon": "images/airtel.png"
     },
      {
       "name": "Airtel Tiktok",
-      "v2ray": "vless://9876aa73-939c-4be3-8581-d22cb2c9c613@cudunona.senumodz.shop:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=www.tiktok.com#Dzoom_free-d%26t_tiktok",
+      "v2ray": "",
       "icon": "images/airtel.png"
     },
      {
       "name": "Airtel 135/260",
-      "v2ray": "no v2ray",
+      "v2ray": "",
       "icon": "images/airtel.png"
     },
     {
       "name": "Airtel Zoom",
-      "v2ray": "no v2ray corry",
+      "v2ray": "",
       "icon": "images/airtel.png"
     }
   ]
 }
+
 
 
 
