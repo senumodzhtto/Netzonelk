@@ -7,12 +7,12 @@
     },
     {
       "name": "Dialog 348",
-      "v2ray": "",
+      "v2ray": "vless://01959ba8-0c30-4457-a8ff-663e0cd8103f@wom.co:80/?encryption=none&flow=none&security=none&type=xhttp&host=sadamali.global.ssl.fastly.net&headerType=auto&path=%2fsadamali.global.ssl.fastly.net#d%20348-free1",
       "icon": "images/dialog.jpg"
     },
      {
       "name": "Dialog Tiktok",
-      "v2ray": "",
+      "v2ray": "vless://337394da-c295-4580-b1c5-2af78c701d8f@jeharaone.senumodz.shop:443/?encryption=none&flow=none&security=tls&fp=chrome&sni=www.tiktok.com&type=tcp&headerType=none#d%20zoom-datiktok",
       "icon": "images/dialog.jpg"
     },
     {
@@ -72,6 +72,7 @@
     }
   ]
 }
+
 
 
 
